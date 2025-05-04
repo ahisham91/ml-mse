@@ -1,1 +1,1 @@
-Comparing mean squared errors of OLS, ridge regression and lasso models using a training and test set of COVID-19 mortality data. 
+Comparing mean squared errors of OLS, ridge regression and lasso models using a training and test set of COVID-19 mortality data. Data sources in Variable Description workbook. 
